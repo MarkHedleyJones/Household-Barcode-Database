@@ -268,3 +268,22 @@ Whiteboard marker (black);9415567890208
 Baking paper;9415077094356
 Food wrap;9415107244003
 Sticky notes;9300806839004
+Soy milk (regular);9310232100500
+Peanut butter (crunchy);9400547019694
+Lollies (Freddo);9300617042648
+Crackers (water);5000168001104
+Eggs;9414929030016
+Lollies (Werthers Original);4014400906790
+Almonds;7641
+Bobby bananas;4935850351001
+Cabbage (red);200336001997
+Milk (lite);9415077098682
+Handsoap (refil);8850006536506
+Liners;9300607541076
+Cough medicine;5000174110289
+Hummus;9403113200205
+Kiwifruit;9414226112095
+Butter;9414090740165
+Feta;9415652350006
+Pumpkin (cut);203392001611
+Chicken thighs;200003009646
