@@ -107,7 +107,7 @@ Teabags (original);9414982020030
 Baking powder;9417986936796
 Peanut butter;9300650019027
 Breadcrumbs (wholegrain);9400561044566
-Flower (plain);9415077068166
+Flour (plain);9415077068166
 Coconut (desiccated);9415077149629
 Wraps (natural);789673000080
 Vegemite;9300650659018
