@@ -80,8 +80,10 @@
     "9300650659018": "Vegemite", 
     "9300657790066": "Mixed vegetables (frozen)", 
     "9300663233243": "Jif", 
+    "9300667024984": "Instant soup sachets", 
     "9300670131297": "Asthma inhaler (Flixotide)", 
     "9300675018142": "Water (bottled)", 
+    "9300695004286": "Fajita kit", 
     "9300697113252": "Mould killer (spray)", 
     "9300701462734": "Oven cleaner", 
     "9300701527358": "Dettol (cleaning disinfectant)", 
@@ -113,6 +115,7 @@
     "9310232100500": "Soy milk (regular)", 
     "9310432002833": "Mirin", 
     "9310432003212": "Panko bread crumbs", 
+    "9310488022946": "Cough medicine", 
     "9310495082353": "Smirnoff RTD", 
     "9310495082360": "RTD (Smirnoff)", 
     "9310560017549": "Chilli sauce (hot)", 
@@ -175,6 +178,7 @@
     "94128901": "Energy drink (V)", 
     "9413000008456": "Coconut oil", 
     "9414005004177": "Fish coating (seafood)", 
+    "9414090023725": "Plain yoghurt", 
     "9414090740165": "Butter", 
     "9414226112095": "Kiwifruit", 
     "9414239000846": "Rice syrup (sweetner)", 
@@ -189,6 +193,7 @@
     "9414789938309": "Water (bottled)", 
     "9414812091988": "Toilet paper", 
     "9414832383650": "Cheese (Parmesan)", 
+    "9414832691274": "Edam cheese (grated)", 
     "9414887000526": "Honey", 
     "9414929030016": "Eggs", 
     "9414942010750": "Weet-bix", 
@@ -313,5 +318,6 @@
     "94582192": "Seasame seeds", 
     "94582222": "Pepper (in grinder)", 
     "9556041020015": "Sesame oil", 
-    "9556041611169": "Fish sauce"
+    "9556041611169": "Fish sauce", 
+    "PR6TDF54C01O2H": "Receipt (bunnings)"
 }
