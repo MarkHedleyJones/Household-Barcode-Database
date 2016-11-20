@@ -50,7 +50,7 @@ Fish coating (seafood);9414005004177
 Baking powder;9415612002976
 Baking soda;9415077061013
 Baking powder;9415077061006
-Coca powder;9415077060993
+Cocoa powder;9415077060993
 Pitted dates;9415559010058
 Icing sugar;9415272639598
 Soy sauce;075810021255
