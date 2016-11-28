@@ -324,7 +324,6 @@ Hand Sanitizer;5000101032905
 Wholegrain Rice Crackers;9400553209720
 Instant soup sachets;9300667024984
 Edam cheese (grated);9414832691274
-Receipt (bunnings);PR6TDF54C01O2H
 Cough medicine;9310488022946
 Fajita kit;9300695004286
 Muesli bars;9415277000850
@@ -351,3 +350,5 @@ Palak Paneer;8901042955995
 Crackers (oat);9400553451716
 Frozen berries (mixed);9415702001315
 Wine (Sav);9421900742073
+Stuffing Mix;9300633603199
+Chocolates (Favourites);9300617023784
