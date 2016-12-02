@@ -275,7 +275,6 @@ Crackers (water);5000168001104
 Eggs;9414929030016
 Lollies (Werthers Original);4014400906790
 Almonds;7641
-Bobby bananas;4935850351001
 Cabbage (red);200336001997
 Milk (lite);9415077098682
 Handsoap (refil);8850006536506
@@ -352,3 +351,15 @@ Frozen berries (mixed);9415702001315
 Wine (Sav);9421900742073
 Stuffing Mix;9300633603199
 Chocolates (Favourites);9300617023784
+Black olives (sliced);9300633005764
+Sour cream; 9415522000598
+Chocolate bar (Kinder);80050094
+Peanut butter (smooth);9300650019027
+Tinned peaches (lite);9400547010059
+Strawberries (punnet);94006704
+Chocolate dipping sauce;94141160
+Pears;9419352094369
+Coke Zero;9300675032247
+Tortillas (wholegrain);9300695004651
+Spice mix (meatballs);9400556015403
+Taco kit (soft);9300695004576
