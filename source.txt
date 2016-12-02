@@ -363,3 +363,4 @@ Coke Zero;9300675032247
 Tortillas (wholegrain);9300695004651
 Spice mix (meatballs);9400556015403
 Taco kit (soft);9300695004576
+Chocolate bar (Flake);93617406
