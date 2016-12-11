@@ -337,7 +337,6 @@ Ginger beer;9421902774065
 Beer;9414339611393
 Fettuccine;9415397000303
 Dates;097923550040
-Kiwifruit (pack);9415835301269
 Nuts (prepacked);9403110031086
 Sour cream;9415522000567
 Crackers (water);5000168001104
@@ -364,3 +363,8 @@ Tortillas (wholegrain);9300695004651
 Spice mix (meatballs);9400556015403
 Taco kit (soft);9300695004576
 Chocolate bar (Flake);93617406
+Reduced Cream;9300605710344
+Kitchen wipes;9300701652135
+Yoghurt (Greek);9414967259912
+Gold Kiwifruit (Prepack);9415835301269
+Gold Kiwifruit (Prepack);9421031660000
