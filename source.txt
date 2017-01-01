@@ -368,3 +368,36 @@ Kitchen wipes;9300701652135
 Yoghurt (Greek);9414967259912
 Gold Kiwifruit (Prepack);9415835301269
 Gold Kiwifruit (Prepack);9421031660000
+Frozen Corn;9415077062775
+Hummus;9403113200205
+Edam cheese (bulk);9421018080333
+Bean and Garlic Dip;9403113998577
+Feta;9415652350006
+Pesto and Cashew Dip;9417606000395
+Sour cream;9414967317001
+Carrots (bulk);9415077075102
+Coleslaw mix;9415077013159
+Lettuce mix;9415077413225
+Tortillas;9300695004378
+Pasta (penne);9415077091331
+Eggs (12 pack);9414929030016
+Garlic powder;94574814
+Chilli (ground);93716444
+Parsley (rubbed);9400574005318
+Chilli flakes;93782623
+Celery salt;93716734
+Lime juice;76106101
+Chickpeas (tinned);9300657830700
+Black beans (tinned);9416107527998
+Black beans (tinned);9300657820305
+Corn (tinned);9400547002436
+Mouthwash;9310059048337
+Toothpaste;8850006327494
+Moisturiser (face);9300607376074
+Corn chips;015839000060
+Cranberries (dried);9415559010164
+Instant noodles (bulk);089686010831
+Brown rice;9310140283869
+Kiwifruit (gold);9415835301412
+Strawberries;9421904601000
+Blueberries;9421900997152
