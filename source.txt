@@ -50,7 +50,7 @@ Fish coating (seafood);9414005004177
 Baking powder;9415612002976
 Baking soda;9415077061013
 Baking powder;9415077061006
-Coca powder;9415077060993
+Cocoa powder;9415077060993
 Pitted dates;9415559010058
 Icing sugar;9415272639598
 Soy sauce;075810021255
@@ -201,8 +201,8 @@ Pure soap;9333441004049
 Ceramic hob protector;9311597005004
 Tissues;9310088002836
 Band aids;9300607171433
-Flavoured crackers;9310072028026
-Hiar spray;9300830008247
+Crackers (flavoured);9310072028026
+Hair spray;9300830008247
 Hayfever nasal spray;9403099262624
 Fly spray;9310045400217
 Skincare oil;6001159111344
@@ -275,7 +275,6 @@ Crackers (water);5000168001104
 Eggs;9414929030016
 Lollies (Werthers Original);4014400906790
 Almonds;7641
-Bobby bananas;4935850351001
 Cabbage (red);200336001997
 Milk (lite);9415077098682
 Handsoap (refil);8850006536506
@@ -322,3 +321,83 @@ Sunscreen;4010355008985
 Shaving Cream (mens);3014260214678
 Hand Sanitizer;5000101032905
 Wholegrain Rice Crackers;9400553209720
+Instant soup sachets;9300667024984
+Edam cheese (grated);9414832691274
+Cough medicine;9310488022946
+Fajita kit;9300695004286
+Muesli bars;9415277000850
+Plain yoghurt;9414090023725
+Cream;94148480
+Olive oil;8006705140067
+Garlic bread;9416228004491
+Eggs;9414674989492
+Chicken (diced);2361560*****
+Cider;9421903424358
+Ginger beer;9421902774065
+Beer;9414339611393
+Fettuccine;9415397000303
+Dates;097923550040
+Nuts (prepacked);9403110031086
+Sour cream;9415522000567
+Crackers (water);5000168001104
+Biscuits (tin);5776879011823
+Chocolate (Kinder);80177609
+Pens;9310025005715
+Paneer Butter Masala;8901042957319
+Palak Paneer;8901042955995
+Crackers (oat);9400553451716
+Frozen berries (mixed);9415702001315
+Wine (Sav);9421900742073
+Stuffing Mix;9300633603199
+Chocolates (Favourites);9300617023784
+Black olives (sliced);9300633005764
+Sour cream; 9415522000598
+Chocolate bar (Kinder);80050094
+Peanut butter (smooth);9300650019027
+Tinned peaches (lite);9400547010059
+Strawberries (punnet);94006704
+Chocolate dipping sauce;94141160
+Pears;9419352094369
+Coke Zero;9300675032247
+Tortillas (wholegrain);9300695004651
+Spice mix (meatballs);9400556015403
+Taco kit (soft);9300695004576
+Chocolate bar (Flake);93617406
+Reduced Cream;9300605710344
+Kitchen wipes;9300701652135
+Yoghurt (Greek);9414967259912
+Gold Kiwifruit (Prepack);9415835301269
+Gold Kiwifruit (Prepack);9421031660000
+Frozen Corn;9415077062775
+Hummus;9403113200205
+Edam cheese (bulk);9421018080333
+Bean and Garlic Dip;9403113998577
+Feta;9415652350006
+Pesto and Cashew Dip;9417606000395
+Sour cream;9414967317001
+Carrots (bulk);9415077075102
+Coleslaw mix;9415077013159
+Lettuce mix;9415077413225
+Tortillas;9300695004378
+Pasta (penne);9415077091331
+Eggs (12 pack);9414929030016
+Garlic powder;94574814
+Chilli (ground);93716444
+Parsley (rubbed);9400574005318
+Chilli flakes;93782623
+Celery salt;93716734
+Lime juice;76106101
+Chickpeas (tinned);9300657830700
+Black beans (tinned);9416107527998
+Black beans (tinned);9300657820305
+Corn (tinned);9400547002436
+Mouthwash;9310059048337
+Toothpaste;8850006327494
+Moisturiser (face);9300607376074
+Corn chips;015839000060
+Cranberries (dried);9415559010164
+Instant noodles (bulk);089686010831
+Brown rice;9310140283869
+Kiwifruit (gold);9415835301412
+Strawberries;9421904601000
+Blueberries;9421900997152
