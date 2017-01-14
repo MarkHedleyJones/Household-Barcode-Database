@@ -401,3 +401,5 @@ Brown rice;9310140283869
 Kiwifruit (gold);9415835301412
 Strawberries;9421904601000
 Blueberries;9421900997152
+Coconut cream;9300633901066
+Tinned chilli beans;9400547009374
