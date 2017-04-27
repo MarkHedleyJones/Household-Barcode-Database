@@ -417,3 +417,4 @@ Green curry paste;9400574014969
 Peanut butter;9421901881009
 Peanut butter;9300650018983
 Risoni pasta;9310155306935
+Penne pasta;9310155202336
