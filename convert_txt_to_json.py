@@ -13,7 +13,7 @@ for lineno, line in enumerate(out):
             print("Error parsing line " + str(lineno) + ": "),
             print(line)
     else:
-            codes[parts[1]] = parts[0]
+            codes[parts[1]] = parts[0][0].capitalize() + parts[0][1:]
 
 a = json.dumps(codes, sort_keys=True, indent=4)
 with open('barcodes.json', 'w') as f:
