@@ -433,3 +433,4 @@ rice (jasmine);9310140002286
 sweet chilli sauce;9310560012049
 Breakfast Cereal;9310055536395
 Bacardi;5010677015806
+Milk (lite);9300633991074
