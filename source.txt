@@ -438,3 +438,4 @@ Milk (standard);9300633991067
 Raspberries;9415702001292
 Sweet Chilli Sauce;9310182300937
 Toilet duck;9300622715841
+Sweet chilli sauce;9310560012049
